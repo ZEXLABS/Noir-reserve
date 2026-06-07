@@ -1,0 +1,6 @@
+{
+  "name": "Noir Reserve",
+  "description": "The World's Most Secluded Sanctuaries. A high-end luxury travel booking catalog, experiences planner, yacht fleet charter scheduler, and real-time personal virtual concierge powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
